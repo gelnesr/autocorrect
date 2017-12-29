@@ -1,0 +1,21 @@
+//Gina El Nesr                                                                                                                   
+//gelnesr1                                                                                                                       
+//2021                                                                                                                           
+//Computer Science + Molecular and Cellular Biology                                                                              
+//Intermediate Programming at JHU for Fall 2017                                                                                  
+//Section 03
+
+1. The command(s) used to compile and run your program.
+
+To compile and run the program run:
+
+make
+./ac
+
+2. The command used to run tests for your program.
+
+make test
+
+3. Any small suggestion that you can think of that would improve our autocorrect program.
+
+Small suggestions that would improve this autocorrect program is to have the user input yes or no if they did mean that word. If the answer is yes, then they can be allowed to enter another word. If the answer is no, the program another word that it could possibly be, or no other corrections found.

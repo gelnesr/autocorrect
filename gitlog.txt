@@ -1,0 +1,179 @@
+commit db2424ed2280c8c58a310cb6375d9dcc0e8fa7d3
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Wed Nov 1 17:57:36 2017 -0400
+
+    Technicality lol
+
+commit 4d988e3224f1744e030adc01ceee084f1b10ec9f
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Wed Nov 1 17:35:42 2017 -0400
+
+    EXECUTABLE IS NOW AUTOMATIC IN MAKEFILEgit add -A
+
+commit ffaef0b64543e61712620ebe1ee3a6232b46a0fe
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Wed Nov 1 16:01:25 2017 -0400
+
+    Fixing README
+
+commit 0953505428de0bcae21d7592c9d6f9d3f908263b
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Wed Nov 1 16:00:17 2017 -0400
+
+    Condensed and simplified unit tests. Also forgot to make a function called test_known
+
+commit 60e0a10c78bf0b18e95a4fee20580445d184e710
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Tue Oct 31 19:35:11 2017 -0400
+
+    Remove tar files
+
+commit 5a6e715dd70ea4c9bdeb1c969cf80094d5d26184
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Mon Oct 30 16:33:14 2017 -0400
+
+    Update with tests
+
+commit abd89a455c510be3d8f5267bcf928b4df0787c7f
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Fri Oct 27 23:21:24 2017 -0400
+
+    Edit functions work, no unit test
+
+commit 3739f5755e810453e10aab9b1f1b9f7d450adf46
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Thu Oct 5 13:02:35 2017 -0400
+
+    Added starter code
+
+commit 6f96df3ee57f55a3d695a5c8051df7f8a81af0b6
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Thu Oct 5 12:40:02 2017 -0400
+
+    Adding files
+
+commit 1d6bf49e44395df151fb572b6d1dca6c64d89f9a
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Tue Sep 26 22:10:31 2017 -0400
+
+    Functioning program; all prompts work; didn't test edge-cases
+
+commit 8e71b9e4b955b6fdeac8f6206e6444e996423682
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Tue Sep 26 19:45:03 2017 -0400
+
+    Working prompt_s and working prompt_l
+
+commit 692ed28201703de03d024916904661acf20a5b61
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Tue Sep 26 14:51:45 2017 -0400
+
+    Working on prompt_l
+
+commit cca16281dba7b4ba64811533ebb563283bead4a5
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Tue Sep 26 14:15:15 2017 -0400
+
+    Working prompt d and duplicate
+
+commit 57621a6945cdd52855f870eb25d9ee16dc671a62
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Tue Sep 26 08:52:15 2017 -0400
+
+    Bit encoding
+
+commit 5878945d73222ca97adca08fb3a213ed75d75895
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Mon Sep 25 10:46:38 2017 -0400
+
+    Commit changes
+
+commit 9ce5f795355d4a152b8f7bf9648ceb918b1203a8
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Mon Sep 25 10:45:30 2017 -0400
+
+    Working fscan
+
+commit e42137cf331f719b68f280318d5a93b9d1c0689a
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Thu Sep 14 21:34:19 2017 -0400
+
+    Optimization of code
+
+commit 30db6311ce3a6f8df24399197bb5b3a46e3fe062
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Thu Sep 14 21:27:44 2017 -0400
+
+    Completely functional code with resolved problem and README
+
+commit b7c735978af72487b51036a1409c6e312537ced9
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Wed Sep 13 16:59:18 2017 -0400
+
+    Functional EOF
+
+commit e26f866d209446a33e6849b46fda96b216a2c79d
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Wed Sep 13 08:52:56 2017 -0400
+
+    The binary search grabs all words... bug in output
+
+commit 660df4333fe77f95853d974d6dce8452058308f1
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Tue Sep 12 20:40:27 2017 -0400
+
+    Working autocomplete except it doesn't detect the actual str if it's a word and messes up some of the searches
+
+commit 6294c2d221e69cb522d5c7ec54ce9b3bafa97890
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Tue Sep 12 13:27:16 2017 -0400
+
+    Final attempt at commit
+
+commit ef427387edc9925bb7697b228ebb8fff87346091
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Tue Sep 12 13:22:13 2017 -0400
+
+    attempt to commit
+
+commit f2c7b2b191564aaf91dfd84037e9f8c62aa0f505
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Tue Sep 12 13:20:40 2017 -0400
+
+    Push code
+
+commit 976226d314098c7dabe43d7db384f7246edbc2c8
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Mon Sep 11 23:24:35 2017 -0400
+
+    Program performs binary search for the first half of the alphabet then breaks for the second half of the alphabet
+
+commit a25e108cf95d9e084d14e22683a3e5acffc9dcd1
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Mon Sep 11 00:05:39 2017 -0400
+
+    Update on HW2
+
+commit 184eb6185e85ef4b8e24b8ce2f04a5d2c5a59692
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Fri Sep 8 16:35:20 2017 -0400
+
+    .gitignore
+
+commit 8ec7f747f846cabb311017d67bd9c7f31807b5f4
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Fri Sep 1 17:43:42 2017 -0400
+
+    Chars and types
+
+commit 46bc269272da16eeb9b7cfd912658348bc0af389
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Fri Sep 1 17:04:28 2017 -0400
+
+    Updated README
+
+commit dc30ca7b5d28e974990b5327223de437bf3ab7a9
+Author: Gina El Nesr <gelnesr1@jhu.edu>
+Date:   Fri Sep 1 17:02:03 2017 -0400
+
+    Created README
